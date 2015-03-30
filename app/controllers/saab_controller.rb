@@ -1,0 +1,2 @@
+class SaabController < ApplicationController
+end
